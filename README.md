@@ -39,3 +39,4 @@ This template provides a minimal setup to get React working in Vite.
   ```
 
 # WhisperApp
+# Whisper-App
