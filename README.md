@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Whisper-App
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite.
 
@@ -36,7 +38,4 @@ This template provides a minimal setup to get React working in Vite.
   Once the server is running, open your browser and navigate to:
   ```
   http://localhost:5173
-  ```
-
-# WhisperApp
-# Whisper-App
+  ```# Whisper-App
