@@ -38,4 +38,13 @@ This template provides a minimal setup to get React working in Vite.
   Once the server is running, open your browser and navigate to:
   ```
   http://localhost:5173
-  ```# Whisper-App
+  ```
+
+## In case of errors
+  Run the following commands, outside backend and frontend directories. 
+  ```bash
+  python3 -m venv venv  
+  source venv/bin/activate  
+  pip install openai-whisper
+  pip install "numpy<2"   
+  ```
